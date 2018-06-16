@@ -17,7 +17,7 @@
     ga('create', 'UA-83553137-1', 'auto');
     ga('send', 'pageview');
     </script>
-    <title>期間工のミカタ|期間従業員専門の求人サイト</title>
+    <title>期間工の|期間従業員専門の求人サイト</title>
     <meta name="description" content="期間工最大級の求人サイト。トヨタやデンソー,日産,ホンダ,マツダなど自動車メーカーの動向や求人に関する情報や面接に関する情報など期間工の皆さんを応援できる情報をお届けします。" />
     <meta name="Keywords" content="期間工,期間従業員,求人,面接,派遣,稼ぐ" />
     <!-- Search Console -->
